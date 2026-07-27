@@ -16,7 +16,7 @@
 
 ---
 
-## 🔭 Overview
+## Overview 🔭
 
 This system uses **InsightFace's buffalo_l model** with **cosine similarity matching** to identify known individuals from a local image database. Built entirely in Python — no cloud, no API keys, runs fully offline.
 
