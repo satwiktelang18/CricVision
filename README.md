@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-# 🎯 Face Recognition System
+# Face Recognition System 🎯
 
 **A computer vision project that detects and recognizes Indian cricket players using deep learning-based face embeddings — trained on the 2018 India BGT Test Squad.**
 
