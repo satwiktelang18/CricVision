@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-# 🎯 Face Recognition System
+# Face Recognition System 🎯
 
 **A computer vision project that detects and recognizes Indian cricket players using deep learning-based face embeddings — trained on the 2018 India BGT Test Squad.**
 
@@ -21,8 +21,6 @@
 This system uses **InsightFace's buffalo_l model** with **cosine similarity matching** to identify known individuals from a local image database. Built entirely in Python — no cloud, no API keys, runs fully offline.
 
 ---
-
-Testing pull request #1.
 
 ## ✨ Features
 
