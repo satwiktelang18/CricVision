@@ -22,6 +22,8 @@ This system uses **InsightFace's buffalo_l model** with **cosine similarity matc
 
 ---
 
+Testing pull request #1.
+
 ## ✨ Features
 
 - Detects and recognizes multiple faces in a single image
@@ -89,6 +91,7 @@ A **native file browser** will open — simply select any image from your comput
 | Tkinter | Native file browser |
 
 ---
+
 
 ## 🚀 Roadmap
 
