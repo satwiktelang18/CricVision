@@ -22,8 +22,6 @@ This system uses **InsightFace's buffalo_l model** with **cosine similarity matc
 
 ---
 
-Testing pull request #1.
-
 ## ✨ Features
 
 - Detects and recognizes multiple faces in a single image
